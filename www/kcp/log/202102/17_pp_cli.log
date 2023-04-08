@@ -1,0 +1,40 @@
+0217-112004.761 - 51441 - IP0PW2HBK4FmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0217-112004.768 - 51441 - IP0PW2HBK4FmoqMp - MSG : PG_SERVER_CONN__SUCC
+0217-112004.778 - 51441 - IP0PW2HBK4FmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0217-112004.906 - 51441 - IP0PW2HBK4FmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0217-112004.907 - 51441 - IP0PW2HBK4FmoqMp - MSG : TX_ENDED - res=[res_cd=8178res_msg=취소 금액보다 상계가능 정산금액 부족으로 취소 불가합니다 KCP 또는 상점으로 문의해 주십시오res_en_msg=Cannot process the cancellation; insufficient funds to offset the cancellation amount.]
+0217-113553.656 - 19264 - IP0PW2HBZrFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0217-113553.660 - 19264 - IP0PW2HBZrFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0217-113553.670 - 19264 - IP0PW2HBZrFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0217-113554.291 - 19264 - IP0PW2HBZrFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0217-113554.292 - 19264 - IP0PW2HBZrFmoqMp - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=IP0PW2HBZrFmoqMppay_method=PACAorder_no=imp_477643922847card_cd=CCDIcard_name=현대카드acqu_cd=CCDIacqu_name=현대카드mcht_taxno=1138521083mall_taxno=6406700266ca_order_id=imp_477643922847tno=21298111309610amount=900card_mny=900coupon_mny=0escw_yn=Ncanc_gubn=Bvan_cd=VNKCapp_time=20210217113554van_apptime=20210217113554canc_time=20210217113554app_no=00702799bizx_numb=880345279quota=00noinf=Npg_txid=0217113554MOC6EGEZDL6F0000000009000000702799]
+0217-113609.193 - 19702 - IP0PW2HBa9FmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0217-113609.195 - 19702 - IP0PW2HBa9FmoqMp - MSG : PG_SERVER_CONN__SUCC
+0217-113609.206 - 19702 - IP0PW2HBa9FmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0217-113609.325 - 19702 - IP0PW2HBa9FmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0217-113609.325 - 19702 - IP0PW2HBa9FmoqMp - MSG : TX_ENDED - res=[res_cd=8140res_msg=매입취소 가능금액 초과res_en_msg=The requested cancellation amount has exceeded the remaining balance.]
+0217-113655.018 - 20660 - IP0PW2HBatFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0217-113655.021 - 20660 - IP0PW2HBatFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0217-113655.032 - 20660 - IP0PW2HBatFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0217-113655.154 - 20660 - IP0PW2HBatFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0217-113655.155 - 20660 - IP0PW2HBatFmoqMp - MSG : TX_ENDED - res=[res_cd=8140res_msg=매입취소 가능금액 초과res_en_msg=The requested cancellation amount has exceeded the remaining balance.]
+0217-113823.180 - 22677 - IP0PW2HBcNFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0217-113823.183 - 22677 - IP0PW2HBcNFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0217-113823.193 - 22677 - IP0PW2HBcNFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0217-113823.321 - 22677 - IP0PW2HBcNFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0217-113823.322 - 22677 - IP0PW2HBcNFmoqMp - MSG : TX_ENDED - res=[res_cd=8140res_msg=매입취소 가능금액 초과res_en_msg=The requested cancellation amount has exceeded the remaining balance.]
+0217-142817.631 - 35452 - IP0PW2HESHFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0217-142817.634 - 35452 - IP0PW2HESHFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0217-142817.644 - 35452 - IP0PW2HESHFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0217-142817.965 - 35452 - IP0PW2HESHFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0217-142817.967 - 35452 - IP0PW2HESHFmoqMp - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=IP0PW2HESHFmoqMppay_method=PACAorder_no=imp_040574448073card_cd=CCDIcard_name=현대카드acqu_cd=CCDIacqu_name=현대카드mcht_taxno=1138521083mall_taxno=6406700266ca_order_id=imp_040574448073tno=21298114700245amount=900card_mny=900coupon_mny=0escw_yn=Ncanc_gubn=Bvan_cd=VNKCapp_time=20210217142818van_apptime=20210217142818canc_time=20210217142818app_no=00479176bizx_numb=880345279quota=00noinf=Npg_txid=0217142818MOC6DHF5VU2T0000000009000000479176]
+0217-143935.295 - 57942 - IP0PW2HEdZFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0217-143935.300 - 57942 - IP0PW2HEdZFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0217-143935.311 - 57942 - IP0PW2HEdZFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0217-143935.432 - 57942 - IP0PW2HEdZFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0217-143935.433 - 57942 - IP0PW2HEdZFmoqMp - MSG : TX_ENDED - res=[res_cd=8178res_msg=취소 금액보다 상계가능 정산금액 부족으로 취소 불가합니다 KCP 또는 상점으로 문의해 주십시오res_en_msg=Cannot process the cancellation; insufficient funds to offset the cancellation amount.]
+0217-144017.180 - 62500 - IP0PW2HEeHFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0217-144017.183 - 62500 - IP0PW2HEeHFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0217-144017.193 - 62500 - IP0PW2HEeHFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0217-144017.320 - 62500 - IP0PW2HEeHFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0217-144017.321 - 62500 - IP0PW2HEeHFmoqMp - MSG : TX_ENDED - res=[res_cd=8178res_msg=취소 금액보다 상계가능 정산금액 부족으로 취소 불가합니다 KCP 또는 상점으로 문의해 주십시오res_en_msg=Cannot process the cancellation; insufficient funds to offset the cancellation amount.]

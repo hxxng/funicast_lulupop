@@ -1,0 +1,10 @@
+0218-120034.231 - 15806 - IP0PW2IC0YFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0218-120034.238 - 15806 - IP0PW2IC0YFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0218-120034.248 - 15806 - IP0PW2IC0YFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0218-120034.377 - 15806 - IP0PW2IC0YFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0218-120034.377 - 15806 - IP0PW2IC0YFmoqMp - MSG : TX_ENDED - res=[res_cd=8178res_msg=취소 금액보다 상계가능 정산금액 부족으로 취소 불가합니다 KCP 또는 상점으로 문의해 주십시오res_en_msg=Cannot process the cancellation; insufficient funds to offset the cancellation amount.]
+0218-120241.402 - 18816 - IP0PW2IC2fFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0218-120241.407 - 18816 - IP0PW2IC2fFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0218-120241.418 - 18816 - IP0PW2IC2fFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0218-120241.537 - 18816 - IP0PW2IC2fFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0218-120241.537 - 18816 - IP0PW2IC2fFmoqMp - MSG : TX_ENDED - res=[res_cd=8178res_msg=취소 금액보다 상계가능 정산금액 부족으로 취소 불가합니다 KCP 또는 상점으로 문의해 주십시오res_en_msg=Cannot process the cancellation; insufficient funds to offset the cancellation amount.]

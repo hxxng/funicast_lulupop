@@ -1,0 +1,110 @@
+0129-112903.491 - 49537 - IP0PW1TBT3FmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-112903.498 - 49537 - IP0PW1TBT3FmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-112903.508 - 49537 - IP0PW1TBT3FmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-112903.530 - 49537 - IP0PW1TBT3FmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-112903.531 - 49537 - IP0PW1TBT3FmoqMp - MSG : TX_ENDED - res=[res_cd=8076res_msg=포맷에러(변경|변경유형)res_en_msg=trace_no=IP0PW1TBT3FmoqMp]
+0129-112908.726 - 49720 - IP0PW1TBT8FmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-112908.729 - 49720 - IP0PW1TBT8FmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-112908.739 - 49720 - IP0PW1TBT8FmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-112908.868 - 49720 - IP0PW1TBT8FmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-112908.869 - 49720 - IP0PW1TBT8FmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-112934.126 - 50176 - IP0PW1TBTYFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-112934.128 - 50176 - IP0PW1TBTYFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-112934.138 - 50176 - IP0PW1TBTYFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-112934.259 - 50176 - IP0PW1TBTYFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-112934.260 - 50176 - IP0PW1TBTYFmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-112948.757 - 50451 - IP0PW1TBTmFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-112948.760 - 50451 - IP0PW1TBTmFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-112948.770 - 50451 - IP0PW1TBTmFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-112948.896 - 50451 - IP0PW1TBTmFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-112948.897 - 50451 - IP0PW1TBTmFmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113003.736 - 51892 - IP0PW1TBU3FmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113003.744 - 51892 - IP0PW1TBU3FmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113003.754 - 51892 - IP0PW1TBU3FmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113003.877 - 51892 - IP0PW1TBU3FmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113003.877 - 51892 - IP0PW1TBU3FmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113025.642 - 56218 - IP0PW1TBUPFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113025.644 - 56218 - IP0PW1TBUPFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113025.654 - 56218 - IP0PW1TBUPFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113025.776 - 56218 - IP0PW1TBUPFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113025.776 - 56218 - IP0PW1TBUPFmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113041.355 - 56750 - IP0PW1TBUfFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113041.357 - 56750 - IP0PW1TBUfFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113041.367 - 56750 - IP0PW1TBUfFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113041.490 - 56750 - IP0PW1TBUfFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113041.490 - 56750 - IP0PW1TBUfFmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113147.308 - 58102 - IP0PW1TBVlFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113147.313 - 58102 - IP0PW1TBVlFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113147.324 - 58102 - IP0PW1TBVlFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113147.443 - 58102 - IP0PW1TBVlFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113147.444 - 58102 - IP0PW1TBVlFmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113157.224 - 58311 - IP0PW1TBVvFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113157.226 - 58311 - IP0PW1TBVvFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113157.237 - 58311 - IP0PW1TBVvFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113157.361 - 58311 - IP0PW1TBVvFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113157.362 - 58311 - IP0PW1TBVvFmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113231.034 - 59313 - IP0PW1TBWVFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113231.036 - 59313 - IP0PW1TBWVFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113231.047 - 59313 - IP0PW1TBWVFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113231.173 - 59313 - IP0PW1TBWVFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113231.174 - 59313 - IP0PW1TBWVFmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113307.554 - 60162 - IP0PW1TBX7FmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113307.557 - 60162 - IP0PW1TBX7FmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113307.567 - 60162 - IP0PW1TBX7FmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113307.685 - 60162 - IP0PW1TBX7FmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113307.686 - 60162 - IP0PW1TBX7FmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113326.326 - 60583 - IP0PW1TBXQFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113326.328 - 60583 - IP0PW1TBXQFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113326.339 - 60583 - IP0PW1TBXQFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113326.458 - 60583 - IP0PW1TBXQFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113326.459 - 60583 - IP0PW1TBXQFmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113336.943 - 60728 - IP0PW1TBXaFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113336.946 - 60728 - IP0PW1TBXaFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113336.956 - 60728 - IP0PW1TBXaFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113337.082 - 60728 - IP0PW1TBXaFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113337.083 - 60728 - IP0PW1TBXaFmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113505.605 - 64180 - IP0PW1TBZ5FmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113505.610 - 64180 - IP0PW1TBZ5FmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113505.620 - 64180 - IP0PW1TBZ5FmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113505.747 - 64180 - IP0PW1TBZ5FmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113505.748 - 64180 - IP0PW1TBZ5FmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113555.637 -  1141 - IP0PW1TBZtFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113555.639 -  1141 - IP0PW1TBZtFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113555.650 -  1141 - IP0PW1TBZtFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113555.777 -  1141 - IP0PW1TBZtFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113555.778 -  1141 - IP0PW1TBZtFmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113800.289 -  3919 - IP0PW1TBc0FmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113800.292 -  3919 - IP0PW1TBc0FmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113800.303 -  3919 - IP0PW1TBc0FmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-113800.424 -  3919 - IP0PW1TBc0FmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-113800.424 -  3919 - IP0PW1TBc0FmoqMp - MSG : TX_ENDED - res=[res_cd=8012res_msg=취소불가 - 상점관리자 문의res_en_msg=Please contact KCP for help.]
+0129-113959.908 -  6329 - IP0PW1TBdxFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-113959.912 -  6329 - IP0PW1TBdxFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-113959.922 -  6329 - IP0PW1TBdxFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-114000.048 -  6329 - IP0PW1TBdxFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-114000.049 -  6329 - IP0PW1TBdxFmoqMp - MSG : TX_ENDED - res=[res_cd=8084res_msg=포맷에러(변경|변경전남은금액)res_en_msg=Format Error (Remaining balance before the request)]
+0129-114022.882 -  9385 - IP0PW1TBeMFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-114022.885 -  9385 - IP0PW1TBeMFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-114022.895 -  9385 - IP0PW1TBeMFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-114023.021 -  9385 - IP0PW1TBeMFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-114023.022 -  9385 - IP0PW1TBeMFmoqMp - MSG : TX_ENDED - res=[res_cd=8084res_msg=포맷에러(변경|변경전남은금액)res_en_msg=Format Error (Remaining balance before the request)]
+0129-114107.037 - 11657 - IP0PW1TBf7FmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-114107.042 - 11657 - IP0PW1TBf7FmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-114107.053 - 11657 - IP0PW1TBf7FmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-114107.176 - 11657 - IP0PW1TBf7FmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-114107.177 - 11657 - IP0PW1TBf7FmoqMp - MSG : TX_ENDED - res=[res_cd=8082res_msg=포맷에러(변경|변경금액)res_en_msg=Format Error (Changed payment amount)]
+0129-114217.645 - 13226 - IP0PW1TBgHFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-114217.650 - 13226 - IP0PW1TBgHFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-114217.660 - 13226 - IP0PW1TBgHFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-114219.086 - 13226 - IP0PW1TBgHFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-114219.087 - 13226 - IP0PW1TBgHFmoqMp - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=IP0PW1TBgHFmoqMppay_method=PACAorder_no=imp_954669098492card_cd=CCLGcard_name=신한카드acqu_cd=CCLGacqu_name=신한카드mcht_taxno=1138521083mall_taxno=6406700266ca_order_id=imp_954669098492tno=21279295969353amount=9860card_mny=9860coupon_mny=0escw_yn=Ncanc_gubn=Bvan_cd=VNKCapp_time=20210129114220van_apptime=20210129114220canc_time=20210129114220app_no=32695399bizx_numb=0013425574quota=00noinf=Npg_txid=0129114220MP01CINUDPQH0000000098600032695399]
+0129-114411.053 - 15742 - IP0PW1TBiBFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-114411.056 - 15742 - IP0PW1TBiBFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-114411.066 - 15742 - IP0PW1TBiBFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-114411.185 - 15742 - IP0PW1TBiBFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-114411.186 - 15742 - IP0PW1TBiBFmoqMp - MSG : TX_ENDED - res=[res_cd=8133res_msg=기취소된 신용카드 거래 취소요청res_en_msg=Cannot process the request; the transaction cannot be cancelled.]
+0129-114411.279 - 15743 - IP0PW1TBiBFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0129-114411.281 - 15743 - IP0PW1TBiBFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0129-114411.292 - 15743 - IP0PW1TBiBFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0129-114411.417 - 15743 - IP0PW1TBiBFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0129-114411.418 - 15743 - IP0PW1TBiBFmoqMp - MSG : TX_ENDED - res=[res_cd=8133res_msg=기취소된 신용카드 거래 취소요청res_en_msg=Cannot process the request; the transaction cannot be cancelled.]

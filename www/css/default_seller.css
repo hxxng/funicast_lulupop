@@ -1,0 +1,215 @@
+::-webkit-scrollbar {
+	background-color:#fff;
+	width:16px
+}
+::-webkit-scrollbar-track {
+	background-color:#fff
+}
+::-webkit-scrollbar-track:hover {
+	background-color:#f4f4f4
+}
+::-webkit-scrollbar-thumb {
+	background-color:#babac0;
+	border-radius:16px;
+	border:5px solid #fff
+}
+::-webkit-scrollbar-thumb:hover {
+	background-color:#a0a0a5;
+	border:4px solid #f4f4f4
+}
+::-webkit-scrollbar-button {
+	display: none
+}
+* {
+	font-family: 'Noto Sans KR', sans-serif;
+	letter-spacing: -0.06em;
+}
+.btn-datatable {
+	padding: 7px !important;
+}
+.auth .brand-logo img {
+	width: 200px;
+	padding: 40px 0;
+}
+.custom-file-input:lang(en) ~ .custom-file-label::after {
+	content: "파일첨부";
+}
+.custom-file-label::after {
+	content: "파일첨부";
+}
+#memo_on_list_length .custom-select {
+	width: 60px;
+}
+#point_on_list_length .custom-select {
+	width: 60px;
+}
+.dataTables_wrapper .dt-buttons {
+	float: left;
+}
+.sidebar .nav .nav-item.active > .nav-link i,
+.sidebar .nav .nav-item.active > .nav-link .menu-title,
+.sidebar .nav .nav-item.active > .nav-link .menu-arrow {
+	color: #9a47dc;
+}
+.sidebar .nav:not(.sub-menu) > .nav-item:hover > .nav-link {
+	background: transparent;
+	color: #9a47dc;
+}
+
+.acc_card .card {
+	border-bottom: 1px solid #ccc !important;
+	border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0 !important;
+}
+.cate-drill-down {
+	width:100%;
+	height:200px;
+	border:1px solid #eee;
+	border-radius: 5px;
+	overflow-x:auto;
+	overflow-y:hidden;
+	margin-bottom:20px;
+}
+.cate-drill-down .col-sm-3 {
+	height:200px;
+	overflow-y:scroll;
+	border-left:1px solid #eee;
+}
+.cate-drill-down .col-3:last-child {
+
+}
+.cate-drill-down .list-group a {
+	border:none;
+}
+.cate-drill-down .list-group-item {
+	padding: 0.75rem 1.25rem;
+}
+.cate-drill-down .list-group-item.active {
+	z-index: 2;
+	color: #2675EB;
+	font-weight:700;
+	background-color: transparent;
+	border:none;
+}
+.product_form {
+	background-color: #ecedef;
+	border-top:1px solid #d9d9d9;
+}
+.custom-control-input:checked ~ .custom-control-label::before {
+    border-color: #9a47dc;
+    background-color: #9a47dc;
+}
+.plus-input {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 140px;
+    height: 140px;
+    font-size: 24px;
+    color: #c0c6d1;
+	border: 1px dashed #ddd;
+}
+.plus-input i {
+    line-height:140px;
+}
+.plus-input img {
+	object-fit:cover;
+	width:140px;
+	height:140px;
+}
+.plus-input-small {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 70px;
+    height: 70px;
+    font-size: 24px;
+    color: #c0c6d1;
+	border: 1px dashed #ddd;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	float: left;
+}
+.plus-input-small i {
+    line-height:70px;
+}
+.plus-input-small img {
+	object-fit:cover;
+	width:70px;
+	height:70px;
+}
+.form-control {
+	background-color: #f8f9fd;
+}
+.product_category_list_group {
+	height: 37px;
+	cursor: pointer;
+}
+#serach_category_box {
+	height: 120px;
+	overflow-y:auto;
+	border:1px solid #eee;
+}
+#search_seller_box {
+	height: 105px;
+	overflow-y:auto;
+	border:1px solid #eee;
+}
+.error {
+	color: #f00;
+}
+#pt_selling_date_box, #f_pt_sale_box1, #f_pt_sale_box2, .c_pt_option_chk1, .c_pt_option_chk2, #f_pat_kc_chk_box, #pdt_price_section_type2_box, #pdt_add_section_price_chk_box, #pdt_add_section_price_type_chk2_box, #f_pt_supplement_select_box, #f_ppbt_max_pay_man_box, #f_ppbt_nointerest_chk_box, #pat_origin_box2 {
+	display: none;
+}
+#pt_image_add_ul {
+	list-style: none;
+	padding:0;
+}
+#pt_image_add_ul li {
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+#pt_image_add_ul img {
+	object-fit:cover;
+	width:140px;
+	height:140px;
+}
+#f_pat_kc_chk_box, #f_ppbt_max_pay_man_box, #f_pt_option_list_box, #f_ppbt_nointerest_chk_box {
+	list-style: none;
+}
+#ppt_content_box, .pdt_price_type_c {
+	border-top: 1px solid rgba(0, 0, 0, 0.125);
+}
+.product_list_media img {
+	width: 64px !important;
+	height: 64px !important;
+	object-fit: contain;
+	border-radius: 0 !important;
+}
+.product-swipe {
+	width:100%;
+	max-width:440px;
+}
+
+.category_selected_active {
+	color: #7859df;
+	font-weight: 700;
+}
+.rft_reply_box {
+	height:200px;
+	overflow: auto;
+}
+.custom-checkbox-list {
+	/* Double-sized Checkboxes */
+	-ms-transform: scale(1.5); /* IE */
+	-moz-transform: scale(1.5); /* FF */
+	-webkit-transform: scale(1.5); /* Safari and Chrome */
+	-o-transform: scale(1.5); /* Opera */
+	padding: 5px;
+}
+h6 {
+	font-size: 0.8rem;
+}
+.card {
+	border: 1px solid #ccc;
+}

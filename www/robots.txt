@@ -1,0 +1,12 @@
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Crawl-delay: 10
+Disallow: /api
+Disallow: /css
+Disallow: /js
+Disallow: /lib
+Disallow: /mng
+Disallow: /seller
+Disallow: /sessions

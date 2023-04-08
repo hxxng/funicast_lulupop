@@ -1,0 +1,30 @@
+0224-113228.205 - 16422 - IP0PW2OBWSFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0224-113228.211 - 16422 - IP0PW2OBWSFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0224-113228.222 - 16422 - IP0PW2OBWSFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0224-113228.347 - 16422 - IP0PW2OBWSFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0224-113228.348 - 16422 - IP0PW2OBWSFmoqMp - MSG : TX_ENDED - res=[res_cd=8178res_msg=취소 금액보다 상계가능 정산금액 부족으로 취소 불가합니다 KCP 또는 상점으로 문의해 주십시오res_en_msg=Cannot process the cancellation; insufficient funds to offset the cancellation amount.]
+0224-113300.058 - 17260 - IP0PW2OBX0FmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0224-113300.061 - 17260 - IP0PW2OBX0FmoqMp - MSG : PG_SERVER_CONN__SUCC
+0224-113300.072 - 17260 - IP0PW2OBX0FmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0224-113300.198 - 17260 - IP0PW2OBX0FmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0224-113300.199 - 17260 - IP0PW2OBX0FmoqMp - MSG : TX_ENDED - res=[res_cd=8178res_msg=취소 금액보다 상계가능 정산금액 부족으로 취소 불가합니다 KCP 또는 상점으로 문의해 주십시오res_en_msg=Cannot process the cancellation; insufficient funds to offset the cancellation amount.]
+0224-113426.322 - 19223 - IP0PW2OBYQFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0224-113426.327 - 19223 - IP0PW2OBYQFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0224-113426.337 - 19223 - IP0PW2OBYQFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0224-113426.461 - 19223 - IP0PW2OBYQFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0224-113426.462 - 19223 - IP0PW2OBYQFmoqMp - MSG : TX_ENDED - res=[res_cd=8178res_msg=취소 금액보다 상계가능 정산금액 부족으로 취소 불가합니다 KCP 또는 상점으로 문의해 주십시오res_en_msg=Cannot process the cancellation; insufficient funds to offset the cancellation amount.]
+0224-154552.383 - 27216 - IP0PW2OFjqFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0224-154552.388 - 27216 - IP0PW2OFjqFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0224-154552.398 - 27216 - IP0PW2OFjqFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0224-154552.519 - 27216 - IP0PW2OFjqFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0224-154552.519 - 27216 - IP0PW2OFjqFmoqMp - MSG : TX_ENDED - res=[res_cd=8140res_msg=매입취소 가능금액 초과res_en_msg=The requested cancellation amount has exceeded the remaining balance.]
+0224-154613.522 - 27802 - IP0PW2OFkDFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0224-154613.524 - 27802 - IP0PW2OFkDFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0224-154613.535 - 27802 - IP0PW2OFkDFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0224-154613.659 - 27802 - IP0PW2OFkDFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0224-154613.660 - 27802 - IP0PW2OFkDFmoqMp - MSG : TX_ENDED - res=[res_cd=8140res_msg=매입취소 가능금액 초과res_en_msg=The requested cancellation amount has exceeded the remaining balance.]
+0224-155411.171 - 42374 - IP0PW2OFsBFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0224-155411.177 - 42374 - IP0PW2OFsBFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0224-155411.187 - 42374 - IP0PW2OFsBFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0224-155411.309 - 42374 - IP0PW2OFsBFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0224-155411.310 - 42374 - IP0PW2OFsBFmoqMp - MSG : TX_ENDED - res=[res_cd=8178res_msg=취소 금액보다 상계가능 정산금액 부족으로 취소 불가합니다 KCP 또는 상점으로 문의해 주십시오res_en_msg=Cannot process the cancellation; insufficient funds to offset the cancellation amount.]

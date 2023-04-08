@@ -1,0 +1,25 @@
+<svg id="ico_free" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_757" data-name="사각형 757" width="33.062" height="26.869" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <rect id="사각형_5451" data-name="사각형 5451" width="70" height="70" fill="none"/>
+  <g id="그룹_19368" data-name="그룹 19368" transform="translate(-512 -501)">
+    <g id="그룹_4312" data-name="그룹 4312" transform="translate(513 502)">
+      <circle id="타원_119" data-name="타원 119" cx="34" cy="34" r="34" fill="#a12bd5"/>
+    </g>
+    <g id="그룹_4318" data-name="그룹 4318" transform="translate(530.025 514.08)">
+      <g id="그룹_4311" data-name="그룹 4311" transform="translate(5.411 30.272)">
+        <path id="패스_20223" data-name="패스 20223" d="M-10.149-10.365v4.728H-1.9v-4.728Zm1.054,3.887V-9.485h6.13v3.007Zm-2.494,2.5v.88h5.008V1.1h1.054v-4.2H-.461v-.88Zm20.143.367h1.9V-4.5H2.907V-6.468h7.271v-3.674H1.814v.89h7.3v1.9H1.843v3.751h1.74v2.3H.451V-.4H11.58v-.909H8.553Zm-1.054,0v2.3H4.628v-2.3Z" transform="translate(11.589 10.365)" fill="#fff"/>
+      </g>
+      <g id="그룹_4316" data-name="그룹 4316">
+        <g id="그룹_4313" data-name="그룹 4313" clip-path="url(#clip-path)">
+          <path id="패스_18419" data-name="패스 18419" d="M34.959,9.907a.342.342,0,0,1-.342-.342V8.006a7.32,7.32,0,1,0-14.641,0V9.565a.342.342,0,0,1-.684,0V8.006a8,8,0,1,1,16.009,0V9.565a.342.342,0,0,1-.342.342" transform="translate(-10.777 4.114)" fill="#fff" stroke="#fff" stroke-width="1"/>
+          <path id="패스_18420" data-name="패스 18420" d="M4.743,49.616a4.743,4.743,0,0,1,0-9.487.342.342,0,0,1,.342.342v8.8a.342.342,0,0,1-.342.342M4.4,40.828a4.059,4.059,0,0,0,0,8.089Z" transform="translate(4.114 -26.861)" fill="#fff" stroke="#fff" stroke-width="1"/>
+          <path id="패스_18421" data-name="패스 18421" d="M86.91,49.616a.342.342,0,0,1-.342-.342v-8.8a.342.342,0,0,1,.342-.342,4.743,4.743,0,0,1,0,9.487m.342-8.788v8.089a4.059,4.059,0,0,0,0-8.089" transform="translate(-62.705 -26.861)" fill="#fff" stroke="#fff" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

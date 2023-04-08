@@ -1,0 +1,15 @@
+0209-092246.682 - 57435 - IP0PW299MkFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0209-092246.687 - 57435 - IP0PW299MkFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0209-092246.697 - 57435 - IP0PW299MkFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0209-092246.825 - 57435 - IP0PW299MkFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0209-092246.826 - 57435 - IP0PW299MkFmoqMp - MSG : TX_ENDED - res=[res_cd=8133res_msg=기취소된 신용카드 거래 취소요청res_en_msg=Cannot process the request; the transaction cannot be cancelled.]
+0209-120332.757 - 56898 - IP0PW29C3WFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0209-120332.761 - 56898 - IP0PW29C3WFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0209-120332.771 - 56898 - IP0PW29C3WFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0209-120332.897 - 56898 - IP0PW29C3WFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0209-120332.898 - 56898 - IP0PW29C3WFmoqMp - MSG : TX_ENDED - res=[res_cd=8133res_msg=기취소된 신용카드 거래 취소요청res_en_msg=Cannot process the request; the transaction cannot be cancelled.]
+0209-120630.087 - 64193 - IP0PW29C6UFmoqMp - MSG : TX_START - site_cd=[IP0PW]+tx_cd=[00200000]+ordr_idxx=[]+log_level=[3]+opt=[0]
+0209-120630.094 - 64193 - IP0PW29C6UFmoqMp - MSG : PG_SERVER_CONN__SUCC
+0209-120630.104 - 64193 - IP0PW29C6UFmoqMp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0209-120630.231 - 64193 - IP0PW29C6UFmoqMp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0209-120630.232 - 64193 - IP0PW29C6UFmoqMp - MSG : TX_ENDED - res=[res_cd=8133res_msg=기취소된 신용카드 거래 취소요청res_en_msg=Cannot process the request; the transaction cannot be cancelled.]
